@@ -1,4 +1,6 @@
-## 西电睿思手机客户端(iOS)
+项目fork自西电论坛
+
+<!-- ## 西电睿思手机客户端(iOS)
 
 [![Build Status](https://travis-ci.org/freedom10086/Ruisi_Ios.svg?branch=master)](https://travis-ci.org/freedom10086/Ruisi_Ios)
 
@@ -74,3 +76,4 @@ public static let BASE_URL_EDU = "https://rs.xidian.edu.cn/"
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+ -->
